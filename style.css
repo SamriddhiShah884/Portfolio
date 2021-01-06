@@ -1,0 +1,199 @@
+body{
+    background-color:#FCF6BD;
+}
+#heading{
+    color:white;
+    font-family: 'Cabin Sketch', cursive;
+    font-size:50px;
+}
+
+#heading-div{
+    background-color:#FF99C8;
+    border-radius:25px;
+}
+
+#heading-img{
+    width:60;
+    height:60px;
+
+}
+
+#heading-img2{
+    width:30;
+    height:30px;
+
+}
+
+#about-me-img{
+    width:460;
+    height:360px;
+    border-radius:100%;
+    border:#E4C1F9 4px solid;
+    padding:4px;
+    display:inline;
+    margin-bottom:50px;
+}
+
+#name{
+ font-family: 'Martel', serif;
+ font-size:20px;
+ color:white;
+ font-weight:bold;
+
+}
+
+#d1:hover{
+    transition:0.3s;
+    width:350px;
+}
+
+#d1{
+   border:white 3px solid;
+   background-color: #A9DEF9;
+   width:300px;
+   padding-top:5px;
+   padding-bottom:5px;
+   margin-bottom:20px;
+   border-radius:30px;
+
+   }
+
+
+   #age{
+    font-family: 'Martel', serif;
+    font-size:20px;
+    color:white;
+    font-weight:bold;
+
+   }
+
+   #d3:hover{
+       transition:0.3s;
+       width:550px;
+   }
+
+   #d3{
+      border:white 3px solid;
+      background-color: #E4C1F9;
+      width:500px;
+      padding-top:5px;
+      padding-bottom:5px;
+      margin-bottom:20px;
+      border-radius:30px;
+
+      }
+
+
+      #hobby{
+        font-family: 'Martel', serif;
+        font-size:20px;
+        color:white;
+        font-weight:bold;
+
+       }
+
+       #d2:hover{
+           transition:0.3s;
+           width:420px;
+       }
+
+       #d2{
+          border:white 3px solid;
+          background-color: #FF99C8;
+          width:370px;
+          padding-top:5px;
+          padding-bottom:5px;
+          margin-bottom:20px;
+          border-radius:30px;
+
+          }
+
+
+          #city{
+            font-family: 'Martel', serif;
+            font-size:20px;
+            color:white;
+            font-weight:bold;
+
+           }
+
+           #d4:hover{
+               transition:0.3s;
+               width:680px;
+           }
+
+           #d4{
+              border:white 3px solid;
+              background-color: #ffac81;
+              width:630px;
+              padding-top:5px;
+              padding-bottom:5px;
+              margin-bottom:5px;
+              border-radius:30px;
+
+              }
+
+
+              #icon-mail{
+                width:70;
+                height:70px;
+
+            }
+
+            #icon-git{
+                width:60;
+                height:60px;
+
+            }
+
+            a{
+                text-decoration: none;
+            }
+
+            #flower{
+                margin-top:-40px;
+                width:200px;
+                margin-right:-49px;
+
+            }
+
+            #heading2{
+                color:white;
+                font-family: 'Cabin Sketch', cursive;
+                font-size:50px;
+            }
+
+            #heading-div2{
+                background-color:#E4C1F9;
+                border-radius:25px;
+            }
+
+            #abc{
+              padding:15px;
+              border-radius:20px;
+              border:#FF99C8 3px solid;
+              
+   
+            }
+
+            
+            #abcd{
+                padding:15px;
+                border-radius:20px;
+                border:#A9DEF9 3px solid;
+                overflow:hidden;
+     
+              }
+
+              #abcde{
+                padding:15px;
+                border-radius:20px;
+                border:#E4C1F9 3px solid;
+                
+     
+              }
+
+            #span1{
+                padding:20px;
+               
+            }
